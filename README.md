@@ -1,12 +1,6 @@
-# WebMaster           statuses
-
-[https://codfish.herokuapp.com](https://codfish.herokuapp.com "CodeFish Tutorial")  [ ![Codeship Status for TurtleWolf/codefish-node](https://app.codeship.com/projects/bfe84900-ffc6-0135-8a3e-0662c72e3642/status?branch=master)](https://app.codeship.com/projects/279755)
-
-[https://chapter-10-turtlewolfe.herokuapp.com/](https://chapter-10-turtlewolfe.herokuapp.com/ "Node 6 BluePrints Ch10")  [ ![Codeship Status for TurtleWolf/baseline-application](https://app.codeship.com/projects/72a28760-ffaa-0135-8b55-6673b73408d1/status?branch=master)](https://app.codeship.com/projects/279730)
-
 # FatCow
 
-[http://BlastoffPowerWashing.com](http://blastoffpowerwashing.com "http://blastoffpowerwashing.com")  [ ![Codeship Status for TurtleWolf/codefish-node](https://app.codeship.com/projects/1234567890-ffc6-0135-8a3e-0662c72e3642/status?branch=master)](https://app.codeship.com/projects/279755)
+[http://BlastoffPowerWashing.com](http://blastoffpowerwashing.com "http://blastoffpowerwashing.com")  [ ![Codeship Status for TurtleWolf/BlastoffPowerWashing](https://app.codeship.com/projects/c2e9c6e0-0378-0136-93ef-3244a1cc3029/status?branch=master)](https://app.codeship.com/projects/280301) [https://blastoffpowerwashing.herokuapp.com](https://blastoffpowerwashing.herokuapp.com "http://blastoffpowerwashing.com") 
 
 [http://geoLARP.com](http://geoLARP.com "https://geoLARP.com")  [ ![Codeship Status for TurtleWolf/geoLARP](https://app.codeship.com/projects/1e6821e0-0352-0136-ab5e-5239f9e2869b/status?branch=master)](https://app.codeship.com/projects/280238)  [https://GeoLARP.Herokuapp.com](https://geoLARP.Herokuapp.com "https://geoLARP.com")
 
