@@ -19,8 +19,27 @@
 
 
 # FreeCodeCamp
+[https://fcc-a-voting-app.herokuapp.com](https://fcc-a-voting-app.herokuapp.com "Build a Voting App")
 
-<div id="nested-collapseDynamicWebApplicationProjects" class="margin-left-10 collapse in map-collapse no-transition chapterBlock"></p><p name="build-a-voting-app" class="challenge-title ion-ios-circle-outline padded-ionic-icon negative-15"><a name="build-a-voting-app" target="_parent" href="/challenges/build-a-voting-app"><span>Build a Voting App</span><span class="sr-only"> Incomplete</span></a><span class="text-primary">   <strong>*</strong></span></p><p name="build-a-nightlife-coordination-app" class="challenge-title ion-ios-circle-outline padded-ionic-icon negative-15"><a name="build-a-nightlife-coordination-app" target="_parent" href="/challenges/build-a-nightlife-coordination-app"><span>Build a Nightlife Coordination App</span><span class="sr-only"> Incomplete</span></a><span class="text-primary">   <strong>*</strong></span></p><p name="chart-the-stock-market" class="challenge-title ion-ios-circle-outline padded-ionic-icon negative-15"><a name="chart-the-stock-market" target="_parent" href="/challenges/chart-the-stock-market"><span>Chart the Stock Market</span><span class="sr-only"> Incomplete</span></a><span class="text-primary">   <strong>*</strong></span></p><p name="manage-a-book-trading-club" class="challenge-title ion-ios-circle-outline padded-ionic-icon negative-15"><a name="manage-a-book-trading-club" target="_parent" href="/challenges/manage-a-book-trading-club"><span>Manage a Book Trading Club</span><span class="sr-only"> Incomplete</span></a><span class="text-primary">   <strong>*</strong></span></p><p name="build-a-pinterest-clone" class="challenge-title ion-ios-circle-outline padded-ionic-icon negative-15"><a name="build-a-pinterest-clone" target="_parent" href="/challenges/build-a-pinterest-clone"><span>Build a Pinterest Clone</span><span class="sr-only"> Incomplete</span></a><span class="text-primary">   <strong>*</strong></span></p></div>
+[https://ScriptHammer.com](https://script-hammer.herokuapp.com "https://script-hammer.herokuapp.com")
+
+[https://ScriptHammer.com](https://script-hammer.herokuapp.com "https://script-hammer.herokuapp.com")
+
+[https://ScriptHammer.com](https://script-hammer.herokuapp.com "https://script-hammer.herokuapp.com")
+
+[https://ScriptHammer.com](https://script-hammer.herokuapp.com "https://script-hammer.herokuapp.com")
+
+
+<p name="build-a-voting-app" class="challenge-title ion-ios-circle-outline padded-ionic-icon negative-15"><a name="build-a-voting-app" target="_parent" href="/challenges/build-a-voting-app"><span>Build a Voting App</span><span class="sr-only"> Incomplete</span></a>
+https://fcc-a-voting-app.herokuapp.com</p>
+
+<p name="build-a-nightlife-coordination-app" class="challenge-title ion-ios-circle-outline padded-ionic-icon negative-15"><a name="build-a-nightlife-coordination-app" target="_parent" href="/challenges/build-a-nightlife-coordination-app"><span>Build a Nightlife Coordination App</span><span class="sr-only"> Incomplete</span></a><span class="text-primary">   <strong>*</strong></span></p>
+
+<p name="chart-the-stock-market" class="challenge-title ion-ios-circle-outline padded-ionic-icon negative-15"><a name="chart-the-stock-market" target="_parent" href="/challenges/chart-the-stock-market"><span>Chart the Stock Market</span><span class="sr-only"> Incomplete</span></a><span class="text-primary">   <strong>*</strong></span></p>
+
+<p name="manage-a-book-trading-club" class="challenge-title ion-ios-circle-outline padded-ionic-icon negative-15"><a name="manage-a-book-trading-club" target="_parent" href="/challenges/manage-a-book-trading-club"><span>Manage a Book Trading Club</span><span class="sr-only"> Incomplete</span></a><span class="text-primary">   <strong>*</strong></span></p>
+
+<p name="build-a-pinterest-clone" class="challenge-title ion-ios-circle-outline padded-ionic-icon negative-15"><a name="build-a-pinterest-clone" target="_parent" href="/challenges/build-a-pinterest-clone"><span>Build a Pinterest Clone</span><span class="sr-only"> Incomplete</span></a><span class="text-primary">   <strong>*</strong></span></p>
 
 # Bradley's
 # Boom Bap's
