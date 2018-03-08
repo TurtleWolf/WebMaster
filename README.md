@@ -27,7 +27,7 @@
 
 [ ![Codeship Status for TurtleWolf/fcc_d_manage_book_trading_club](https://app.codeship.com/projects/97983240-04cc-0136-11be-523b2b249d1b/status?branch=master)](https://app.codeship.com/projects/280566) [https://fcc-d-manage-book-trading-club.herokuapp.com](https://fcc-d-manage-book-trading-club.herokuapp.com "Manage a Book Trading Club")
 
-[https://ScriptHammer.com](https://script-hammer.herokuapp.com "Build a Pinterest Clone")
+[ ![Codeship Status for TurtleWolf/fcc_e_pinterest_clone](https://app.codeship.com/projects/06025d60-04d1-0136-0999-0e7fdaa29a0c/status?branch=master)](https://app.codeship.com/projects/280573) [https://ScriptHammer.com](https://script-hammer.herokuapp.com "Build a Pinterest Clone")
 
 # Bradley's
 # Boom Bap's
