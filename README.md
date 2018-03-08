@@ -23,25 +23,11 @@
 
 [ ![Codeship Status for TurtleWolf/fcc_b_nightlife_coordination](https://app.codeship.com/projects/1b5a9010-04b9-0136-0999-0e7fdaa29a0c/status?branch=master)](https://app.codeship.com/projects/280545)  [https://fcc-b-nightlife-coordination.herokuapp.com](https://fcc-b-nightlife-coordination.herokuapp.com "Build a Nightlife Coordination App")  
 
+[ ![Codeship Status for TurtleWolf/fcc_c_chart_stockmarket](https://app.codeship.com/projects/6c28fb60-04c0-0136-23bf-26f9c8a90726/status?branch=master)](https://app.codeship.com/projects/280548) [https://fcc-c-chart-stockmarket.herokuapp.com](https://fcc-c-chart-stockmarket.herokuapp.com "Chart the Stock Market") 
 
+[https://ScriptHammer.com](https://script-hammer.herokuapp.com "Manage a Book Trading Club")
 
-[https://ScriptHammer.com](https://script-hammer.herokuapp.com "https://script-hammer.herokuapp.com")
-
-[https://ScriptHammer.com](https://script-hammer.herokuapp.com "https://script-hammer.herokuapp.com")
-
-[https://ScriptHammer.com](https://script-hammer.herokuapp.com "https://script-hammer.herokuapp.com")
-
-
-<p name="build-a-voting-app" class="challenge-title ion-ios-circle-outline padded-ionic-icon negative-15"><a name="build-a-voting-app" target="_parent" href="/challenges/build-a-voting-app"><span>Build a Voting App</span><span class="sr-only"> Incomplete</span></a>
-https://fcc-a-voting-app.herokuapp.com</p>
-
-<p name="build-a-nightlife-coordination-app" class="challenge-title ion-ios-circle-outline padded-ionic-icon negative-15"><a name="build-a-nightlife-coordination-app" target="_parent" href="/challenges/build-a-nightlife-coordination-app"><span>Build a Nightlife Coordination App</span><span class="sr-only"> Incomplete</span></a><span class="text-primary">   <strong>*</strong></span></p>
-
-<p name="chart-the-stock-market" class="challenge-title ion-ios-circle-outline padded-ionic-icon negative-15"><a name="chart-the-stock-market" target="_parent" href="/challenges/chart-the-stock-market"><span>Chart the Stock Market</span><span class="sr-only"> Incomplete</span></a><span class="text-primary">   <strong>*</strong></span></p>
-
-<p name="manage-a-book-trading-club" class="challenge-title ion-ios-circle-outline padded-ionic-icon negative-15"><a name="manage-a-book-trading-club" target="_parent" href="/challenges/manage-a-book-trading-club"><span>Manage a Book Trading Club</span><span class="sr-only"> Incomplete</span></a><span class="text-primary">   <strong>*</strong></span></p>
-
-<p name="build-a-pinterest-clone" class="challenge-title ion-ios-circle-outline padded-ionic-icon negative-15"><a name="build-a-pinterest-clone" target="_parent" href="/challenges/build-a-pinterest-clone"><span>Build a Pinterest Clone</span><span class="sr-only"> Incomplete</span></a><span class="text-primary">   <strong>*</strong></span></p>
+[https://ScriptHammer.com](https://script-hammer.herokuapp.com "Build a Pinterest Clone")
 
 # Bradley's
 # Boom Bap's
