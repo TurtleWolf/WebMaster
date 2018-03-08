@@ -25,7 +25,7 @@
 
 [ ![Codeship Status for TurtleWolf/fcc_c_chart_stockmarket](https://app.codeship.com/projects/6c28fb60-04c0-0136-23bf-26f9c8a90726/status?branch=master)](https://app.codeship.com/projects/280548) [https://fcc-c-chart-stockmarket.herokuapp.com](https://fcc-c-chart-stockmarket.herokuapp.com "Chart the Stock Market") 
 
-[https://ScriptHammer.com](https://script-hammer.herokuapp.com "Manage a Book Trading Club")
+[ ![Codeship Status for TurtleWolf/fcc_d_manage_book_trading_club](https://app.codeship.com/projects/97983240-04cc-0136-11be-523b2b249d1b/status?branch=master)](https://app.codeship.com/projects/280566) [https://fcc-d-manage-book-trading-club.herokuapp.com](https://fcc-d-manage-book-trading-club.herokuapp.com "Manage a Book Trading Club")
 
 [https://ScriptHammer.com](https://script-hammer.herokuapp.com "Build a Pinterest Clone")
 
