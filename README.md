@@ -1,4 +1,4 @@
-# FatCow
+## FatCow (switching canonical URL to heroku hosting)
 
 [http://BlastoffPowerWashing.com](http://blastoffpowerwashing.com "http://blastoffpowerwashing.com")  [ ![Codeship Status for TurtleWolf/BlastoffPowerWashing](https://app.codeship.com/projects/c2e9c6e0-0378-0136-93ef-3244a1cc3029/status?branch=master)](https://app.codeship.com/projects/280301) [https://blastoffpowerwashing.herokuapp.com](https://blastoffpowerwashing.herokuapp.com "http://blastoffpowerwashing.com") 
 
@@ -12,6 +12,8 @@
 
 
 [https://www.AthensAutoSalesOnline.com/index.shtml](https://www.athensautosalesonline.com/index.shtml "https://www.athensautosalesonline.com/index.shtml")  [ ![Codeship Status for TurtleWolf/codefish-node](https://app.codeship.com/projects/1234567890-ffc6-0135-8a3e-0662c72e3642/status?branch=master)](https://app.codeship.com/projects/279755)
+
+## Heroku for Hosting..
 
 [http://CRUDgames.com](https://crud-games.herokuapp.com "http://crudgames.com")  [ ![Codeship Status for TurtleWolf/CRUDgames](https://app.codeship.com/projects/882df270-012f-0136-3c88-1ae9cef32bc1/status?branch=master)](https://app.codeship.com/projects/279943)
 
@@ -27,7 +29,7 @@
 
 [ ![Codeship Status for TurtleWolf/fcc_d_manage_book_trading_club](https://app.codeship.com/projects/97983240-04cc-0136-11be-523b2b249d1b/status?branch=master)](https://app.codeship.com/projects/280566) [https://fcc-d-manage-book-trading-club.herokuapp.com](https://fcc-d-manage-book-trading-club.herokuapp.com "Manage a Book Trading Club")
 
-[ ![Codeship Status for TurtleWolf/fcc_e_pinterest_clone](https://app.codeship.com/projects/06025d60-04d1-0136-0999-0e7fdaa29a0c/status?branch=master)](https://app.codeship.com/projects/280573) [https://ScriptHammer.com](https://script-hammer.herokuapp.com "Build a Pinterest Clone")
+[ ![Codeship Status for TurtleWolf/fcc_e_pinterest_clone](https://app.codeship.com/projects/8c4243f0-0517-0136-6ab5-12afcd81044a/status?branch=master)](https://app.codeship.com/projects/280660) [https://fcc-e-pinterest-clone.herokuapp.com](https://fcc-e-pinterest-clone.herokuapp.com "Build a Pinterest Clone")
 
-# Bradley's
-# Boom Bap's
+### FoodLiberatioonFont
+### Bb's
